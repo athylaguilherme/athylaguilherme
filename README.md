@@ -5,7 +5,7 @@
   <a href="www.linkedin.com/in/athylagjpires" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div
 
-![Athyla GitHub stats](https://github-readme-stats.vercel.app/api?username=athylaguilherme&show_icons=true&theme=dark)
+![Athyla GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Castel4n1&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ## Tecnologias que estou estudando
 
